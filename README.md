@@ -1,2 +1,4 @@
 # Hameholel
-Tools for Hebrew type designers, designers and copy-writres
+Tools for Hebrew type designers, designers and copywritres. 
+
+URL: https://alefalefalef.co.il/resources/hameholel/
